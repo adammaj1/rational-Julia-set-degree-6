@@ -31,6 +31,8 @@ there are 2 finite superattracting fixed points :
 za=0
 zb=1
 
+aaa
+
 
 
  
