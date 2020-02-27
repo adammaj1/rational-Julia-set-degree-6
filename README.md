@@ -1,7 +1,7 @@
 
 
 
-Julia set of rational function f(z)=z^2(3 − z^4 )/2
+dynamic plane with numerical aproximation of Julia set for rational function f(z)=z^2(3 − z^4)/2
 
 ![image](s600.png)
 
@@ -38,8 +38,9 @@ where:
 # Files
 * [r.c](r.c) -  c console progam 
 
-#Licence
- [GNU GENERAL PUBLIC LICENSE Version 2, June 1991](LICENCE)
+#Licence  
+  
+[GNU GENERAL PUBLIC LICENSE Version 2, June 1991](LICENCE)
 
 
 # Git
