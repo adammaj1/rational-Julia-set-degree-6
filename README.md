@@ -20,6 +20,9 @@ basin | test | color
 # Files
 * [r.c](r.c)
 
+#Licence
+ [GNU GENERAL PUBLIC LICENSE Version 2, June 1991](LICENCE)
+
 
 # Git
 
@@ -32,7 +35,7 @@ git push -u origin master
 
 clone: 
 
-``
+```
   git clone https://github.com/adammaj1/rational-Julia-set-degree-6.git
 ```
 
