@@ -10,9 +10,9 @@ see figure 4 on the page 19 in paper "ON THURSTON’S PULLBACK MAP" by XAVIER BU
 
 basin 		| test 		| color
 --------------- | --------------|---------------------------------------------------------------------------------
-basin of attration to infinity | bailout or escape test for z=infinity : $`abs(z_n) > ER `$ | iColorOfExterior = 245
-basin to attraction to z=0 | test for falling into finite attractor z=1 : $`abs( z_n - 1) < AR `$>  | iColorsOfInterior[1]=230
-basin of attraction to z=1 | test for falling into finite attractor z=0 :  $`abs(z_n) < AR `$  | iColorsOfInterior[0]=200
+basin of attration to infinity | bailout or escape test for z=infinity : abs(zn) > ER | iColorOfExterior = 245
+basin to attraction to z=0 | test for falling into finite attractor z=1 : abs( zn - 1) < AR   | iColorsOfInterior[1]=230
+basin of attraction to z=1 | test for falling into finite attractor z=0 :  abs(zn) < AR   | iColorsOfInterior[0]=200
 
 
 
@@ -50,3 +50,4 @@ local repo
 * [github help: writing-on-github/basic-writing-and-formatting-syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 * [mMarkdown-Cheatsheet by Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [README-Template.md by Billie Thompson](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* [how-to-show-math-equations-in-general-githubs-markdown, not-githubs-blog](https://stackoverflow.com/questions/11256433/how-to-show-math-equations-in-general-githubs-markdownnot-githubs-blog)
