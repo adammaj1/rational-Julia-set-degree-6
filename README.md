@@ -8,11 +8,11 @@ Julia set of rational function f(z)=z^2(3 − z^4 )/2
 
 see figure 4 on the page 19 in paper "ON THURSTON’S PULLBACK MAP" by XAVIER BUFF, ADAM EPSTEIN, SARAH KOCH, AND KEVIN PILGRIM
 
-basin | test | color
------------- | -------------
-| basin of attration to infinity | bailout or escape test for z=infinity : $`abs(z_n) > ER `$ | iColorOfExterior = 245
-| basin to attraction to z=0 | test for falling into finite attractor z=1 : $`abs( z_n - 1) < AR `$>  | iColorsOfInterior[1]=230
-| basin of attraction to z=1 | test for falling into finite attractor z=0 :  $`abs(z_n) < AR `$  | iColorsOfInterior[0]=200
+basin 		| test 		| color
+--------------- | --------------|---------------------------------------------------------------------------------
+basin of attration to infinity | bailout or escape test for z=infinity : $`abs(z_n) > ER `$ | iColorOfExterior = 245
+basin to attraction to z=0 | test for falling into finite attractor z=1 : $`abs( z_n - 1) < AR `$>  | iColorsOfInterior[1]=230
+basin of attraction to z=1 | test for falling into finite attractor z=0 :  $`abs(z_n) < AR `$  | iColorsOfInterior[0]=200
 
 
 
